@@ -11,7 +11,7 @@
       src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
-  <a href="https://mraddict.one](https://augustoferrari1.github.io/Portfolio-2024/" target="_blank">
+  <a href="https://augustoferrari1.github.io/Portfolio-2024/" target="_blank">
     <img
       height="35"
       alt="microsoft-outlook logo"
