@@ -1,6 +1,6 @@
 <!-- welcome message -->
 
-# Hi there! I'm Augusto.
+# Hola! Soy Augusto.
 
 <!-- badge -->
 <div>
@@ -31,7 +31,7 @@ Aquí están los lenguajes y herramientas de programación que más utilizo:
   <img height="30" width="42" alt="html logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height="30" width="42" alt="css logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
   <img height="30" width="42" alt="java logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
-  <img height="30" width="42" alt="javascript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-  original.svg" />
+  <img height="30" width="42" alt="JavaScript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="30" width="42" alt="php logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
  <img height="30" width="42" alt="haskell logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
  <img height="30" width="42" alt="bash logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
