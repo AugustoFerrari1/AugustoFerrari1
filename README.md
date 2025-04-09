@@ -22,10 +22,7 @@
 
 <br/>
 
-Soy estudiante de Ingeniería en la ORT de Uruguay, con una fuerte pasión por la tecnología y un interés constante por explorar nuevas herramientas. Aquí te cuento un poco más sobre mí:
 
-🌱 Estoy aprendiendo constantemente sobre tecnologías de frontend y mejorando mis habilidades.
-Aquí están los lenguajes y herramientas de programación que más utilizo:
 
 <div> 
   <img height="30" width="42" alt="html logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
