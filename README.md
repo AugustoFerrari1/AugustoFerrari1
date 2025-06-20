@@ -47,6 +47,8 @@
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![Ada](https://img.shields.io/badge/Ada-%23A9225C.svg?style=for-the-badge)
   ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 <br>   
     
