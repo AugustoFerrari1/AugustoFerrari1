@@ -2,46 +2,38 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hola,%20soy%20Augusto%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20en%20Sistemas&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8E2DE2&center=true&vCenter=true&width=560&lines=Estudiante+de+Ingenier%C3%ADa+en+Sistemas;A+mitad+de+carrera+%F0%9F%9A%80;Aprendiendo+cada+d%C3%ADa+algo+nuevo;Backend+%7C+Frontend+%7C+Bases+de+Datos" alt="Typing SVG" />
-</a>
-
 </div>
 
 <br>
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
-- 🎓 Estudiante de **Ingeniería en Sistemas**, cursando la mitad de la carrera.
-- 🌱 Actualmente ampliando conocimientos en desarrollo **backend**, **bases de datos** y **buenas prácticas** de programación.
-- 🛠️ Me gusta programar en distintos lenguajes: desde bajo nivel como **C/C++/Ada** hasta desarrollo web con **JavaScript/React/PHP**.
-- 📫 Podés contactarme por correo o ver mi portfolio (links abajo).
-- ⚡ Fun fact: siempre estoy probando algo nuevo para sumar a mi stack.
+Soy estudiante de **Ingeniería en Sistemas** en la ORT, actualmente cursando el **6to semestre**. Me apasiona programar y seguir aprendiendo constantemente: disfruto tanto resolver problemas de bajo nivel en C/C++/Ada como construir interfaces con React y JavaScript. Estoy en una etapa de mi carrera donde combino la teoría de la facultad con proyectos propios para seguir creciendo como desarrollador.
 
 <br>
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AugustoFerrari1&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=8E2DE2&icon_color=8E2DE2&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoFerrari1&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=8E2DE2&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AugustoFerrari1&show_icons=true&count_private=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=8E2DE2&icon_color=8E2DE2&text_color=c9d1d9" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AugustoFerrari1&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=8E2DE2&text_color=c9d1d9" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AugustoFerrari1&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=8E2DE2&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" />
+  <img src="https://streak-stats.demolab.com/?user=AugustoFerrari1&hide_border=true&theme=github-dark-blue&background=0D1117&stroke=8E2DE2&ring=8E2DE2&fire=4A00E0&currStreakLabel=8E2DE2" />
 </div>
 
 <br>
 
-## 🟩 Matriz de contribuciones
+## Contribuciones
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AugustoFerrari1&theme=react-dark&bg_color=0d1117&color=8E2DE2&line=4A00E0&point=ffffff&hide_border=true&area=true" width="100%"/>
+  <img src="https://ghchart.rshah.org/8E2DE2/AugustoFerrari1" width="100%"/>
 </div>
 
 <br>
 
-## 🧰 Tecnologías y herramientas
+## Tecnologías y herramientas
 
 <div align="center">
 
@@ -84,7 +76,7 @@
   <a href="mailto:aguferrari100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://augustoferrari1.github.io/Portfolio-2024/" target="_blank">
+  <a href="https://augustoferrari1.github.io/Portfolio-2026/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
