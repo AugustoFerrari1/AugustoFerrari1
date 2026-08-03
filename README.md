@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hola,%20soy%20Augusto%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20en%20Sistemas&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=Hola,%20soy%20Augusto%20
+  &fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20en%20Sistemas&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
