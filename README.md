@@ -76,7 +76,7 @@ Soy estudiante de **Ingeniería en Sistemas** en la ORT, actualmente cursando el
   <a href="mailto:aguferrari100@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://augustoferrari1.github.io/Portfolio-2026/" target="_blank">
+  <a href="https://augustoferrari.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-8E2DE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
